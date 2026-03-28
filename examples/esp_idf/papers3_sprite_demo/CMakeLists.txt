@@ -6,4 +6,4 @@ cmake_minimum_required(VERSION 3.16)
 
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
 set(EXTRA_COMPONENT_DIRS "../../..")
-project(papers3_demo)
+project(papers3_sprite_demo)
